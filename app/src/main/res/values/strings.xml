@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UTS AKB IF-10 10118737</string>
+
+    //Headings
+    <string name="heading_one">Create By</string>
+    <string name="heading_two">About This Apps</string>
+    <string name="heading_three">Menu in This Apps</string>
+    <string name="heading_fourth">This Apps For</string>
+
+    //Description
+    <string name="desc_one">10118737 - Moch Rifqi Ramdhani - IF10</string>
+    <string name="desc_two">This application contains my biodata, and I made it as interesting as possible so that those who saw it could be interested in the application that I made.</string>
+    <string name="desc_three">Profile, Catatan Harian, About</string>
+    <string name="desc_fourth">Tugas UTS Genap 2021 AKB PROJECT - 10118737</string>
+    <string name="title_activity_findme">Map</string>
+</resources>

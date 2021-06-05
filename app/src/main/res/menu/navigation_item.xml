@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ProfileId"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/CatatanHarian"
+        android:icon="@drawable/ic_baseline_sticky_note_2_24"
+        android:title="Catatan Harian"/>
+
+    <item
+        android:id="@+id/About"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About"/>
+
+</menu>

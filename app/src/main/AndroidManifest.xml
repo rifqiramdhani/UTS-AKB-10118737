@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.utsakbif_1010118737">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UTSAKBIF1010118737">
+        <activity android:name=".main.catatanharian.SaveKategoriActivity"></activity>
+        <activity android:name=".main.catatanharian.NotesActivity" />
+        <activity android:name=".main.catatanharian.UpdateActivity" />
+        <activity android:name=".main.catatanharian.ListNoteActivity" />
+        <activity android:name=".main.catatanharian.SaveActivity" />
+        <activity android:name=".main.catatanharian.KategoriActivity" />
+        <activity android:name=".main.dashboard.DashboardActivity" />
+        <activity
+            android:name=".main.walkthrough.WalkthroughActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
